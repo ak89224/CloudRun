@@ -1,2 +1,2 @@
 # CloudRun
-Demo project for cloud run deployment
+Hello world demo project for cloud run deployment
